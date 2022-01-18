@@ -18,3 +18,7 @@
      transform: scale(1.08);
      
  }
+
+ .main-button.-full{
+     width: 100%;
+ }
