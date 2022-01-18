@@ -16,7 +16,7 @@
     box-sizing: border-box;
     width: 15px;
     height: 15px;
-    border: 20px solid transparent;
+    border: 15px solid transparent;
     border-left: 28px solid white;
     transform: translateX(5px);
 }
